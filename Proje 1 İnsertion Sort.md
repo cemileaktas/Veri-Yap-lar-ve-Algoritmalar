@@ -12,6 +12,7 @@ Verilen örüntüye ait en küçük elemanı bulunuyor ve en baştaki sayı ile 
 |------|-|-|-|-|-|-|
 
 16 ile 27 kıyaslanır. 16 küçük olduğu için 16 ile 27 yer değiştirir.Sonra 16 ile 22 kıyaslanır. 16 küçük olduğu için 16 ile 22 yer değiştirir.
+
 |3.adım|22|16|27|2|18|6|-->|16|22|27|2|18|6|
 |------|-|-|-|-|-|-|----|-|-|-|-|-|-|
 2 ile 27 kıyaslanır. 2 küçük olduğu için 2 ile 27 yer değiştirir.Sonra 2 ile 22 kıyaslanır. 2 küçük olduğu için 2 ile 22 yer değiştirir.Daha sonra tekrar 2 ile 16 kıyaslanır. 2 küçük olduğu için 2 ile 16 yer değiştirir.
